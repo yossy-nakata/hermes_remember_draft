@@ -1,0 +1,2 @@
+user: HermesとLFM2のremember draftを作りたい
+assistant: 読み込みはContext References、更新はdraftにしましょう。
